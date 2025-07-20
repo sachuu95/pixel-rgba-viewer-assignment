@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+canvas {
+  border: 2px solid #333;
+  margin-top: 20px;
+  cursor: crosshair;
+}
+
+#rgbaOutput {
+  font-weight: bold;
+  margin-top: 20px;
+  font-size: 18px;
+}
